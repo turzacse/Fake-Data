@@ -3,7 +3,7 @@
       {
         "id": 1,
         "name": "Coca-cola",
-        "brandimg": "https://i.ibb.co/h9sdsx0/cocacola-logo.png",
+        "brandimg": "https://i.ibb.co/Msmm1Fy/images.png",
         "sliderimages": [
           "https://i.ibb.co/bsH499t/1-2.jpg",
           "https://i.ibb.co/k9TfPbv/1-1.jpg",
@@ -12,7 +12,7 @@
       },
       {
         "id": 2,
-        "name": "McDonald's",
+        "name": "Uniliver",
         "brandimg": "https://i.ibb.co/k8rxdtw/Mc.jpg",
         "sliderimages": [
           "https://i.ibb.co/2sYcGTy/2-1.jpg",
@@ -22,8 +22,8 @@
       },
       {
         "id": 3,
-        "name": "Starbucks",
-        "brandimg": "https://i.ibb.co/PCnsM4B/Star.jpg",
+        "name": "Nevia",
+        "brandimg": "https://i.ibb.co/mFxVHKV/download.png",
         "sliderimages": [
           "https://i.ibb.co/KbFM0Hn/3-3.jpg",
           "https://i.ibb.co/2k8ZS15/3-2.jpg",
@@ -32,8 +32,8 @@
       },
       {
         "id": 4,
-        "name": "Nestle",
-        "brandimg": "https://i.ibb.co/yQ31dqX/chok.jpg",
+        "name": "Oil",
+        "brandimg": "https://i.ibb.co/GcVKvqc/download.png",
         "sliderimages": [
           "https://i.ibb.co/nwjjsCZ/4-1.jpg",
           "https://i.ibb.co/Hx64SZY/4-2.jpg",
@@ -42,8 +42,8 @@
       },
       {
         "id": 5,
-        "name": "Pizza Hut",
-        "brandimg": "https://i.ibb.co/wQxFvgv/pizza.png",
+        "name": "Pran",
+        "brandimg": "https://i.ibb.co/PcL2Vb2/download-1.png",
         "sliderimages": [
           "https://i.ibb.co/H72WzKh/5-3.jpg",
           "https://i.ibb.co/5vZW9V8/5-1.jpg",
@@ -52,8 +52,8 @@
       },
       {
         "id": 6,
-        "name": "Soup Soup",
-        "brandimg": "https://i.ibb.co/pQjWw0C/soup.jpg",
+        "name": "Perfume",
+        "brandimg": "https://i.ibb.co/JzCzcP3/downloa.jpg",
         "sliderimages": [
           "https://i.ibb.co/N2QgVMy/6-2.jpg",
           "https://i.ibb.co/7YFfQsN/6-3.jpg",
